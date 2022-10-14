@@ -136,14 +136,12 @@
 /* 运行时间*/
 div#runtime {
     width: fit-content;
+    position: absolute;
     color: #fff;
     padding: 0 10px;
     border-radius: 10px;
-    background-color: rgba(0, 0, 0, 0.7);
-    margin:auto
-    /* display: flex;
-    justify-content: center; /* 水平居中 
-    align-items: center; 垂直居中 */
+    background-color: rgba(248, 248, 248, 0.7);
+    right: 9px;
 }
 
 [data-theme="dark"] div#runtime {
