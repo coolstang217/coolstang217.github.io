@@ -100,7 +100,7 @@
 }
 /*设置背景透明度*/
 :root {
-    --card-bg: rgba(255, 255, 255, .6);
+    --card-bg: rgba(255, 255, 255, .8);
 }
 [data-theme='dark'] {
     --card-bg: rgba(0, 0, 0, .5);
